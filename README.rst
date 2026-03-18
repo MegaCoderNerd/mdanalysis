@@ -57,6 +57,12 @@ Example analysis script
 Documentation
 =============
 
+**Getting Started**
+
+* **QUICKSTART.md** - Comprehensive quick start guide with examples and architecture overview (in this repository)
+* **examples/** - Ready-to-run example scripts demonstrating common analysis tasks (in this repository)
+* **ARCHITECTURE.md** - Detailed technical architecture documentation (in this repository)
+
 **New users** should read the `Quickstart Guide`_ and might want to
 look at our videos_, in which core developers explain various aspects
 of MDAnalysis.
